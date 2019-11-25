@@ -1,9 +1,9 @@
-Name: As of now it's called "ViewGenerator.py"
+Name: NinjaMyIP.py
 
 
 BACKSTORY: 
 
-Wanted to mess around and learn more with web scraping, that I ended up working on a program that can be used to generate views for YouTube(Not 100%) or access websites that are banned overseas. By scraping free proxies from the web and using them to help mask my IP. By no means will this bypass stricter rules in place, since some of the proxies aren't elite proxies. However, if you find or purchase high proxies, you can include them manually in the code to launch chromedriver. 
+Wanted to mess around and learn more with web scraping, that I ended up working on a program that can be used to generate views for YouTube(Not 100%, the bad thing is that you have to open couple of tabs, so 5 tabs playing YT will get 5 views...) or access websites that are banned overseas. I got banned on a website I frequently visited, and with a new proxy I was back in no time. By scraping free proxies from the web and using them to help mask my IP. By no means will this bypass stricter rules in place, since some of the proxies aren't elite proxies. However, if you find or purchase high proxies, you can include them manually in the code to launch chromedriver. 
 
 This is just something fun I wanted to try and also learn from it. 
 
